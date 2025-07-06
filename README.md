@@ -160,7 +160,7 @@ See the [LICENSE](LICENSE) file for more info.
 
 ## 📞 Contact
 
-📧 Email: [pritikumari.engineer@gmail.com](mailto:pritikumari.engineer@gmail.com)  
+📧 Email: [pritikumari200565@gmail.com](mailto:pritikumari.engineer@gmail.com)  
 🔗 GitHub: [@priti-kumari56](https://github.com/priti-kumari56)  
 🔗 LinkedIn: [@pritiku](https://www.linkedin.com/in/pritiku)
 
